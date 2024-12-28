@@ -1,0 +1,32 @@
+Responsive Portfolio Website
+A modern, responsive portfolio website template designed to adapt seamlessly across all devices. This project showcases clean UI/UX design, interactive elements, and optimized layouts for developers, designers, or anyone looking to create a personal online presence.
+
+Features
+Responsive Design:
+
+Fully optimized for desktop, tablet, and mobile devices.
+Includes media queries for smooth layout adjustments.
+Interactive Navigation:
+
+Desktop navigation with hover effects.
+Hamburger menu for mobile users with animated toggle functionality.
+Profile Section:
+
+Displays a central profile image with descriptive text and social media links.
+Dynamic Sections:
+
+About: Highlights details in an attractive two-column layout.
+Experience: Grid-based articles to showcase skills and achievements.
+Projects: Features project images, titles, and interactive buttons.
+Contact: Includes styled contact information blocks and a footer section.
+Styling and Typography:
+
+Clean and modern design using the "Poppins" font.
+Hover animations on buttons, links, and navigation items.
+Smooth Scrolling:
+
+Adds a polished user experience with smooth scroll behavior.
+Technologies Used
+HTML5
+CSS3 (Flexbox, Media Queries, Transitions)
+JavaScript (Toggle functionality for the hamburger menu)
